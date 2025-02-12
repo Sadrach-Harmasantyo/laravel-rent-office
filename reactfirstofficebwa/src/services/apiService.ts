@@ -1,0 +1,18 @@
+import axios from "axios";
+
+const API_KEY = import.meta.env.VITE_REACT_API_KEY;
+const BASE_URL = import.meta.env.VITE_REACT_BASE_URL;
+
+export const BASE_URL_STORAGE =
+  import.meta.env.VITE_REACT_BASE_URL + "/storage";
+
+export const apiClient = axios.create({
+  baseURL: BASE_URL,
+  headers: {
+    "X-API-KEY": API_KEY,
+  },
+});
+
+export const isAxiosError = axios.isAxiosError;
+
+export default apiClient;
