@@ -24,4 +24,4 @@ This is a **Rent Office Website** built as an individual project in **2025**. Th
 
 ## 🔗 Live Demo
 
-- **Website**: [Rent Office Website](https://gymxcercise.netlify.app/)
+- **Website**: [Rent Office Website](https://github.com/Sadrach-Harmasantyo/laravel-rent-office)
