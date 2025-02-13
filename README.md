@@ -1,6 +1,6 @@
 # Rent Office Website
 
-![Project Screenshot](https://github.com/Sadrach-Harmasantyo/laravel-rent-office/blob/main/frontend/public/assets/images/preview.png)
+![Project Screenshot](https://github.com/Sadrach-Harmasantyo/laravel-rent-office/main/frontend/public/assets/images/preview.png)
 
 ## 📌 Project Overview
 
