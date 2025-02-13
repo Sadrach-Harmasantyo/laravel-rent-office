@@ -318,7 +318,7 @@ export default function CheckBooking() {
               </div>
               <hr className="border-[#F6F5FD]" />
               <a
-                href="https://wa.me/6285700287191?text=Halo,%20saya%20mengalami%20masalah%20saat%20check%20booking"
+                href="https://wa.me/621234567890?text=Halo,%20saya%20mengalami%20masalah%20saat%20check%20booking"
                 target="_blank"
                 className="flex items-center justify-center w-full rounded-full border border-[#000929] p-[12px_20px] gap-3 bg-white font-semibold"
               >
